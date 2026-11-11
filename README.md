@@ -1,89 +1,55 @@
-## Hi there, I'm Syeda Hafsa 👋
+## Hi, I'm Syeda Hafsa 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Data+Analyst+%7C+Business+Intelligence;Turning+Data+into+Actionable+Insights;MSc+Data+Science+%40+UKM;SQL+%7C+Power+BI+%7C+Python" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=B4386A&center=true&vCenter=true&width=560&lines=Turning+data+and+systems+into+decisions;Data+analytics+%7C+Machine+learning+%7C+Software;Master+of+Data+Science+%40+UKM" alt="Turning data and systems into decisions. Data analytics, machine learning, software. Master of Data Science at UKM." />
 </div>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/syeda-hafsa-140324224/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:syedahafsa135@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <!-- Uncomment once your portfolio site is live -->
-  <!-- <a href="https://syedahafsa135.github.io"><img src="https://img.shields.io/badge/Portfolio-View-2E9EF7?style=for-the-badge&logo=githubpages&logoColor=white"></a> -->
+  <a href="https://syedahafsa135.github.io/"><img src="https://img.shields.io/badge/Portfolio-View-B4386A?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio"></a>
+  <a href="https://www.linkedin.com/in/syeda-hafsa-140324224"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:syedahafsa135@gmail.com"><img src="https://img.shields.io/badge/Email-Say_hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
-## 🚀 About Me
+I'm a **Computer and Information Systems Engineer** (BE, NED University) doing a **Master of Data Science at Universiti Kebangsaan Malaysia**. I find the story in messy data, then build the dashboard, model or tool that tells it. Effect sizes beside p-values, recall beside accuracy, and a test set nobody peeks at. ✦
 
-I'm a Data Analyst with a Computer Systems Engineering background, currently pursuing my **Master's in Data Science at Universiti Kebangsaan Malaysia (UKM)**. I turn messy, real-world data into dashboards and reports that people actually use to make decisions.
+**Open to:** internships, graduate and entry-level roles in data, ML and software.
 
-My experience spans SQL-based analysis, Power BI/Tableau dashboarding and end-to-end EDA. Most recently, as a Data Analyst Intern at Technocolabs Software, I cleaned and explored datasets, built Power BI dashboards and defined KPIs to track project outcomes.
+## 🧭 What I work on
 
-## 📌 Featured Analytics Projects
-
-| Project | Business question | What I did | Stack |
-|---|---|---|---|
-| [P2P Lending Risk Analysis](https://github.com/syedahafsa135/Financial-Risk-Analysis-for-P2P-Lending-Investments) | Which borrower profiles carry the most default risk? | Evaluated borrower risk and loan performance with ML models and a Power BI dashboard | Python, SQL, Power BI |
-| [Sales Prediction](https://github.com/syedahafsa135/CodeAlpha_SalesPrediction) | How do TV, radio and newspaper ad spend affect sales? | Trained a Random Forest regressor, evaluated with MAE, MSE, RMSE and R² | Python, Pandas, scikit-learn |
-| [Car Price Prediction](https://github.com/syedahafsa135/CodeAlpha_CarPricePrediction) | What drives a used car's resale price? | Ran EDA, encoded features and compared regression models on R² and RMSE | Python, scikit-learn |
-
-## 🎓 Final Year Project: Real-Time Anomaly Detection System
-
-A team project at NED University: a surveillance system that detects **fire, falls, weapons and fights** in live camera feeds, raises alerts and generates event reports. [View the repository](https://github.com/syedahafsa135/survelliance-website)
-<!-- After uploading your report to the repo, uncomment and fix this link: -->
-<!-- · [Read the project report (PDF)](https://github.com/syedahafsa135/survelliance-website/blob/main/docs/FYP_Report.pdf) -->
-
-**My contribution**
-- Trained the **fall and jump detection models** (YOLO-based, 15,000+ image, 7-class dataset)
-- Annotated video training data in **CVAT**
-- Connected **Firebase** to the application for live event logging
-
-<details>
-<summary><b>More projects: machine learning and computer vision</b></summary>
-
-| Project | Description | Stack |
+| Data and analytics | Machine learning and vision | Software and systems |
 |---|---|---|
-| [Multiple Disease Prediction System](https://github.com/syedahafsa135/Multiple_Disease_Prediction_System) | Predicts multiple diseases from patient data in a Streamlit app | Python, scikit-learn, Streamlit |
-| [Virtual Mouse Detector](https://github.com/syedahafsa135/VirtualMouse) | Gesture-controlled virtual mouse using hand tracking | Python, MediaPipe, Streamlit |
+| Python, R, SQL, Power BI, WEKA | scikit-learn, imbalanced-learn, YOLO | Streamlit, Flask, Firebase |
+| Cleaning, EDA, hypothesis testing | Model comparison with statistical tests | HTML, CSS, JavaScript |
+| Dashboards, KPIs, executive summaries | OpenCV, MediaPipe, MATLAB image processing | Git, documentation, presenting to non-technical teams |
 
-</details>
+## 📌 Featured projects
 
-## 🛠️ Technical Skillset
+| Project | What I found |
+|---|---|
+| [Loan default classification](https://github.com/syedahafsa135/loan-default-classification) | Five classifiers, leakage-free CV, Friedman/Wilcoxon tests on 255,347 loans. Tuned AdaBoost: **test AUC 0.740, recall 0.659** |
+| [Hotel booking statistics in R](https://github.com/syedahafsa135/hotel-booking-statistical-analysis-r) | Found ~129,000 hidden "NULL" gaps; season + hotel interaction lifted adjusted R² from **.223 to .551** |
+| [CCTV anomaly detection](https://github.com/syedahafsa135/survelliance-website) (team FYP) | Trained the fall and jump model (YOLO11n, 15,000+ images): **0.716 recall** |
+| [Sales prediction](https://github.com/syedahafsa135/CodeAlpha_SalesPrediction) | Random Forest, **R² 0.981** on held-out markets; TV and radio drive sales |
+| [Car price prediction](https://github.com/syedahafsa135/CodeAlpha_CarPricePrediction) | Random Forest, **R² 0.964** on held-out cars; new price carries 0.88 of importance |
+| [Multiple disease prediction](https://github.com/syedahafsa135/Multiple_Disease_Prediction_System) | Streamlit app; heart model **0.906 recall**, and an honest look at the diabetes model's 0.519 |
 
-#### Data Analysis & Visualization
-<p>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="SQL">
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black" alt="Power BI">
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white" alt="Tableau">
-  <img src="https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white" alt="Excel">
-</p>
+More, including the P2P lending risk analysis from my Technocolabs internship, is on my [portfolio](https://syedahafsa135.github.io/#projects).
 
-#### Programming & Data Science
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" alt="Pandas">
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" alt="NumPy">
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white" alt="scikit-learn">
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white" alt="Streamlit">
-</p>
+## ✍️ Featured articles
 
-#### Tools & Platforms
-<p>
-  <img src="https://img.shields.io/badge/Git%2FGitHub-181717?style=flat&logo=github&logoColor=white" alt="Git and GitHub">
-  <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white" alt="Flask">
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white" alt="OpenCV">
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" alt="Firebase">
-</p>
+I write about computer vision on LinkedIn:
 
-## 💼 Experience & Education
+- [From Pixels to Patterns: Exploring Connected Regions Using MATLAB](https://www.linkedin.com/pulse/from-pixels-patterns-exploring-connected-regions-using-syeda-hafsa-umfse/) (May 2025)
+- [Understanding Morphological Operations in Computer Vision](https://www.linkedin.com/pulse/understanding-morphological-operations-computer-vision-syeda-hafsa-htzae/) (May 2025)
+- [Can You Teach a Machine to See? Exploring Edge Detection in MATLAB](https://www.linkedin.com/pulse/can-you-teach-machine-see-exploring-edge-detection-matlab-syeda-hafsa-mka0e/) (May 2025)
 
-- **Data Analyst Intern, Technocolabs Software** (Mar–Jun 2026)
-- **IT/IS Intern, Getz Pharma** (Aug–Nov 2023): built reporting dashboards and wrote a User Requirement Specification
-- **MSc Data Science**, Universiti Kebangsaan Malaysia (2026 – present)
-- **BSc Computer Systems Engineering**, NED University of Engineering and Technology (2021–2025)
+## 💼 Experience and education
 
-## 🌱 Currently Learning
-
-- Advanced SQL: window functions, CTEs, query optimisation
-- Data warehousing and analytics foundations through my MSc
+- **Data Analyst Intern**, Technocolabs Software (Mar 2026 to Jun 2026): data cleaning, EDA, Power BI dashboards, KPIs
+- **IT Intern**, Karachi Development Authority (Mar 2024 to May 2024): worked with the authority's existing database; presented on working in a government IT environment
+- **IT/IS Intern**, Getz Pharma (Aug 2023 to Nov 2023): dashboards and a User Requirement Specification
+- **Master of Data Science**, Universiti Kebangsaan Malaysia (Sep 2026 to present)
+- **BE Computer and Information Systems Engineering**, NED University of Engineering and Technology (2021 to 2025)
 
 ---
-<p align="center"><i>Open to Data Analyst / Business Intelligence opportunities. Feel free to connect!</i></p>
+<p align="center"><i>Say hi, I don't bite ♡</i></p>
